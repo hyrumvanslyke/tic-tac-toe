@@ -1,10 +1,11 @@
-
+import Square from './Square';
 import './App.css';
 
 function App() {
+  const string = 'I love basketBall'
   return (
     <div className="App">
-     <h1>Hello</h1>
+     <Square propVar={string}></Square>
     </div>
   );
 }
