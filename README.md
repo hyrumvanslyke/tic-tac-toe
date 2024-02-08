@@ -1,1 +1,1 @@
- first react project using state 
+ first react project using state. state is a very interesting idea and react is fun
